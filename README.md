@@ -1,13 +1,13 @@
-## Hi there!👋 I´m Luciano Alessi
+# Hi there!👋 I´m Luciano Alessi
 
 **Industrial Engineer | Developer**
 
-### 🚀 About
+#### 🚀 About
 
 - 🎓 I am an **Industrial Engineer** graduated from the **Universidad Tecnologica Nacional** of Argentina.
 - 🌱 I’m currently learning **Full Stack development**.
 
-### 💻 Languages and Tools 
+#### 💻 Languages and Tools 
   <p>
    <div align="center">
     	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
@@ -19,7 +19,7 @@
    </div>
   <p>
 
-## 📫 Contact Me
+#### 📫 Contact Me
 
 LinkedIn - [Luciano Alessi](https://www.linkedin.com/in/lucianoalessi/)
 
