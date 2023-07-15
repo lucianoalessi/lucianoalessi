@@ -2,13 +2,12 @@
 
 **Industrial Engineer | Developer**
 
-### About
+### 🚀 About
 
-- 🎓I am an **Industrial Engineer** graduated from the **Universidad Tecnologica Nacional** of Argentina.
+- 🎓 I am an **Industrial Engineer** graduated from the **Universidad Tecnologica Nacional** of Argentina.
 - 🌱 I’m currently learning **Full Stack development**.
 
-<div>
-  <h3> 💻 Languages and Tools </h3>
+### 💻 Languages and Tools 
   <p>
    <div align="center">
     	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
@@ -17,9 +16,8 @@
     	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
     	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
     	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
-</div>
+   </div>
   <p>
-</div> 
 
 ## 📫 Contact Me
 
