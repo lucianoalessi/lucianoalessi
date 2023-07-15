@@ -1,6 +1,6 @@
 ## Hi there!👋 I´m Luciano Alessi
 
-** Industrial Engineer | Developer **
+**Industrial Engineer | Developer**
 
 ### About
 
