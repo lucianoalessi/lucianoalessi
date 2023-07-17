@@ -5,7 +5,8 @@
 ### 🚀 About
 
 - 🎓 I am an **Industrial Engineer** graduated from the **Universidad Tecnologica Nacional** of Argentina.
-- 🌱 I’m currently learning **Full Stack development**.
+- 🌱 Iam currently learning **Full Stack development**.
+-  I am also an avionics technician graduated from Technical School Nº7 "Taller Regional Quilmes" (IMPA), where at an early age I took my first steps in programming with c++.
 
 ### 💻 Languages and Tools 
   
