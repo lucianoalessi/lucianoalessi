@@ -18,6 +18,9 @@
     	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
     	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
     	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
+      <code><img height="50" src="https://github.com/lucianoalessi/lucianoalessi/assets/115379121/a161b402-4aa2-45b5-9b12-669caa679461" alt="Express-js" title="Express-js"/></code>
+      <code><img height="50" src="https://github.com/lucianoalessi/lucianoalessi/assets/115379121/189e108c-caca-4723-bcc3-6caaff91c975" alt="Socket.io" title="Socket.io"/></code>
+      <code><img height="50" src="https://github.com/lucianoalessi/lucianoalessi/assets/115379121/148e8775-539c-47bc-aad8-daba0596c728" alt="MongoDb" title="MongoDb"/></code>
     	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
    </div>
  
