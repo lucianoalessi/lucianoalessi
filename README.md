@@ -1,6 +1,6 @@
 # Hi there!👋 I´m Luciano Alessi
 
-**Industrial Engineer | BackEnd Developer**
+** BackEnd Developer | Industrial Engineer**
 
 ### 🚀 About
 
