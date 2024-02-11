@@ -6,8 +6,8 @@
 
 - 🎓 I am an **Industrial Engineer** graduated from the **Universidad Tecnologica Nacional** of Argentina.
 - 🌱 I am currently learning **Full Stack development**.
--  Also, I am an avionics technician graduated from <a href= "https://www.impatrq.com/">Technical School Nº7 "Taller Regional Quilmes" (IMPA)</a>, where at an early age I took my first steps in programming with C++.
-LEARN MORE AT: www.lucianoalessi.com
+- Also, I am an avionics technician graduated from <a href= "https://www.impatrq.com/">Technical School Nº7 "Taller Regional Quilmes" (IMPA)</a>, where at an early age I took my first steps in programming with C++.
+- LEARN MORE AT: www.lucianoalessi.com
 ### 💻 Languages and Tools 
   
    <div align="center">
