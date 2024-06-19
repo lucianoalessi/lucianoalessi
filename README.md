@@ -1,14 +1,30 @@
 # Hi there!👋 I´m Luciano Alessi
 
-**BackEnd Developer | Industrial Engineer**
+**Data Engineering | BackEnd Development | Industrial Engineer**
 
-### 🚀 About
+### 🚀 About me
 
-- 🎓 I am an **Industrial Engineer** graduated from the **Universidad Tecnologica Nacional** of Argentina.
-- 🌱 I am currently learning **Full Stack development**.
-- Also, I am an avionics technician graduated from <a href= "https://www.impatrq.com/">Technical School Nº7 "Taller Regional Quilmes" (IMPA)</a>, where at an early age I took my first steps in programming with C++.
+- 🎓 I am an Industrial Engineer graduated from the Universidad Tecnológica Nacional (Argentina) with strong programming knowledge.
+- 🌱 Passionate about Data Engineering with hands-on experience in data processing and management.
+- 🌱 Skilled in Full Stack Development with a comprehensive understanding of both front-end and back-end technologies.
+- 🛠️ Experienced in avionics technology, having graduated from Technical School Nº7 "Taller Regional Quilmes" (IMPA), where I began programming with C++ at an early age.
 - LEARN MORE AT: www.lucianoalessi.com
-### 💻 Languages and Tools 
+
+
+### 💻 Data Engineering Languages and Tools:
+<div align="center">
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/></code>
+   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" title="Pandas"/></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" title="SQL"/></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL"/></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB"/></code>
+    <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original.svg" alt="Airflow" title="Airflow"/></code>
+  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka"/></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Apache Spark" title="Apache Spark"/></code>
+
+</div>
+
+### 💻 WEB DEVELOPMENT Languages and Tools:
   
    <div align="center">
     	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
