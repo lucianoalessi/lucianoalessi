@@ -9,7 +9,23 @@
 - 🌱 Full Stack Developer with a comprehensive understanding of front-end and back-end technologies, capable of creating complete and scalable web applications.
 - 🛠 Avionics Technician graduated from Technical School No. 7 “Taller Regional Quilmes” (IMPA), where I took my first steps in programming with C++ at an early age, developing a solid foundation in logic and problem-solving.
 
+### 💻 Data Engineerig Languages and Tools: 
 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white)
+###### Data-bases:
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+###### Cloud:
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?logo=amazon-s3&logoColor=white)
+
+<!-- 
 ### 💻 Data Engineering Languages and Tools:
 <div align="center">
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/></code>
@@ -20,8 +36,11 @@
     <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original.svg" alt="Airflow" title="Airflow"/></code>
   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka"/></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Apache Spark" title="Apache Spark"/></code>
+</div>](url)](url)
 
-</div>
+-->
+
+
 
 ### 💻 WEB DEVELOPMENT Languages and Tools:
   
