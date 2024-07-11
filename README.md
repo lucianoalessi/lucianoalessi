@@ -1,6 +1,6 @@
 # Hi there!👋 I´m Luciano Alessi
 
-**Data Engineer | BackEnd Development | Industrial Engineer**
+**Data Engineer | BackEnd Development | Industrial Engineer | Avionic Technician**
 
 ### 🚀 About me
 
