@@ -1,14 +1,13 @@
 # Hi there!👋 I´m Luciano Alessi
 
-**Data Engineering | BackEnd Development | Industrial Engineer**
+**Data Engineer | BackEnd Development | Industrial Engineer**
 
 ### 🚀 About me
 
-- 🎓 I am an Industrial Engineer graduated from the Universidad Tecnológica Nacional (Argentina) with strong programming knowledge.
-- 🌱 Passionate about Data Engineering with hands-on experience in data processing and management.
-- 🌱 Skilled in Full Stack Development with a comprehensive understanding of both front-end and back-end technologies.
-- 🛠️ Experienced in avionics technology, having graduated from Technical School Nº7 "Taller Regional Quilmes" (IMPA), where I began programming with C++ at an early age.
-- LEARN MORE AT: www.lucianoalessi.com
+- 🎓 I am an Industrial Engineer graduated from the National Technological University (Argentina) with a strong background in programming.
+- 🌱 Passionate about Data Engineering, with practical experience in data processing and management, including ETL projects and Data pipelines with Python.
+- 🌱 Full Stack Developer with a comprehensive understanding of front-end and back-end technologies, capable of creating complete and scalable web applications.
+- 🛠 Avionics Technician graduated from Technical School No. 7 “Taller Regional Quilmes” (IMPA), where I took my first steps in programming with C++ at an early age, developing a solid foundation in logic and problem-solving.
 
 
 ### 💻 Data Engineering Languages and Tools:
