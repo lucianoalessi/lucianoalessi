@@ -14,16 +14,26 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white)
+![MAGE](https://img.shields.io/badge/-MAGE-000000?logo=mage&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white)
-###### Data-bases:
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+###### Databases SQL and NoSQL:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-###### Cloud:
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?logo=googlecloud&logoColor=white)
+###### Cloud Solutions Architect:
 ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?logo=amazon-s3&logoColor=white)
+![Google Cloud Storage](https://img.shields.io/badge/-Google%20Cloud%20Storage-4285F4?logo=googlecloud&logoColor=white)
+![Google Compute Engine](https://img.shields.io/badge/-Google%20Compute%20Engine-4285F4?logo=googlecloud&logoColor=white)
+
+###### Business Intelligence:
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white)
+![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-0000FF?logo=matplotlib&logoColor=white)
+
 
 <!-- 
 ### 💻 Data Engineering Languages and Tools:
