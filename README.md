@@ -18,11 +18,15 @@
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
 ###### Databases SQL and NoSQL:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?logo=googlecloud&logoColor=white)
+![Redshift](https://img.shields.io/badge/-Redshift-FF9900?logo=amazon-aws&logoColor=white)
+
+
 ###### Cloud Solutions Architect:
 ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?logo=amazon-s3&logoColor=white)
@@ -33,6 +37,7 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white)
 ![Looker](https://img.shields.io/badge/-Looker-4285F4?logo=looker&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0000FF?logo=matplotlib&logoColor=white)
+
 
 
 <!-- 
